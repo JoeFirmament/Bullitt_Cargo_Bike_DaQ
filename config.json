@@ -1,7 +1,7 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Photo Gallery",
+  "title": "BullittCargo等货笔记",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
