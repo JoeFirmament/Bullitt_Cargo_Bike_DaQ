@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "Copyright Text",
+  "footer": "Available under the Creative Commons Attribution-ShareAlike License 3.0",
   "usage-stats": false
 }
