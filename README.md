@@ -1,4 +1,5 @@
-# Make some notes during the process of greeting. #
+# 等待BullittCargo车过程中的一些记录
+## Make some notes during the process of greeting. 
 
 ----
 ## 🀎🐼📷 图集（来自网络）##
