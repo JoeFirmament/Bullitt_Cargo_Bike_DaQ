@@ -13,7 +13,7 @@
 ---
 ## 3D Model （3D格式文档）##
 
-/Model_3D
+[Model_3D](https://github.com/JoeFirmament/Bullitt_Cargo_Bike_DaQ/tree/master/Model_3D)
 
 ---
 ## Maintain 维护保养##
