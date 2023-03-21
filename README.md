@@ -2,7 +2,7 @@
 ## Make some notes during the process of greeting. 
 
 ---
-# 我的车到啦
+## 我的车到啦
 ![myBike](https://github.com/JoeFirmament/Bullitt_Cargo_Bike_DaQ/blob/master/gallery/refImage/QBullitt.jpeg)
 
 ----
