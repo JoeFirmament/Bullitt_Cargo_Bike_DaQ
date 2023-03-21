@@ -1,6 +1,9 @@
 # 等待BullittCargo车过程中的一些记录
 ## Make some notes during the process of greeting. 
 
+---
+![myBike](https://github.com/JoeFirmament/Bullitt_Cargo_Bike_DaQ/blob/master/gallery/refImage/QBullitt.jpeg)
+
 ----
 ## 🀎🐼📷 图集（来自网络）##
 [Gallery Here](https://joefirmament.github.io/Bullitt_Cargo_Bike_DaQ/)
