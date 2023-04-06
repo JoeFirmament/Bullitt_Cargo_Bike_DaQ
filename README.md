@@ -15,7 +15,8 @@
 ## Dimension Drawing（一些第三方或者自制的配件尺寸图）
 
 /Dimension Drawing 
-![Dimension](https://github.com/JoeFirmament/Bullitt_Cargo_Bike_DaQ/blob/master/Dimensions/di.png)
+![Dimension](https://github.com/JoeFirmament/Bullitt_Cargo_Bike_DaQ/blob/master/Dimensions/panelMolle.jpeg)
+![Dimension](https://github.com/JoeFirmament/Bullitt_Cargo_Bike_DaQ/blob/master/Dimensions/panelMolle2.jpeg)
 
 ---
 ## 3D Model （3D格式文档）
